@@ -1,0 +1,11 @@
+*{
+    color: black;
+}
+
+.post{
+    margin: auto;
+    width: 400px;
+}
+ .post-img{
+    width: 100%;
+ }
