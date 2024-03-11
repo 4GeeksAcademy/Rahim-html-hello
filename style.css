@@ -1,8 +1,9 @@
 *{
-    color: black;
+    background-color: black;
 }
 
 .post{
+    background-color: white;
     margin: auto;
     width: 400px;
 }
