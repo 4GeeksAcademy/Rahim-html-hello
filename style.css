@@ -7,12 +7,18 @@ body{
     width: 400px;
 }
 .post-header{
+    padding: 10px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .header-title{
     display: flex;
-    gap: 1.5rem;
+    gap: 1.0rem;
+}
+.post-header .fa-brands fa-html5{
+    align-items: center;
+    font-size: 8rem;
 }
 .header-title a{
     text-decoration: none;
@@ -25,4 +31,12 @@ body{
 
     width: 400px;
     
+}
+.post-icon{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.post-body{
+    padding: 10px;
 }
