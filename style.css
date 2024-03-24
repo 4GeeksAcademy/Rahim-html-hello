@@ -6,17 +6,17 @@ body{
     margin: auto;
     width: 400px;
 }
-.post-header {
+.post-header{
+    display: flex;
+    justify-content: space-between;
+}
+.header-title{
+    display: flex;
+    gap: 1.5rem;
+}
   
-    align-items: center;
-   
-}
-.html-title{
-display: flex;
-}
-.post-header-name{
 
-}
+
 .post-img img{
 
     width: 400px;
